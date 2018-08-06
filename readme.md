@@ -19,8 +19,9 @@
 4. Modify code :
 	
 	* Download source code from : https://github.com/vmware/pyvmomi/blob/master/sample/poweronvm.py
-	* comment line 33-45/ uncomment 47 - 61
-	* comment line 116 122 / uncomment 115 121
+	* Modify the code to match sample.py or alternatively do the following on sample.py
+		* comment line 33-45/ uncomment 47 - 61
+		* comment line 116 122 / uncomment 115 121
 	
 5. Package Lambda
 	Follow Instructnions here : https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html
